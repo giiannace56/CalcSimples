@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giian\\Desktop\\back-end\\console\\ProjetosEmC\\calculadora simples\\calculadora simples.csproj": {}
+    "C:\\Users\\giian\\Desktop\\calculadora simples\\CalcSimples\\calculadora simples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giian\\Desktop\\back-end\\console\\ProjetosEmC\\calculadora simples\\calculadora simples.csproj": {
+    "C:\\Users\\giian\\Desktop\\calculadora simples\\CalcSimples\\calculadora simples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giian\\Desktop\\back-end\\console\\ProjetosEmC\\calculadora simples\\calculadora simples.csproj",
+        "projectUniqueName": "C:\\Users\\giian\\Desktop\\calculadora simples\\CalcSimples\\calculadora simples.csproj",
         "projectName": "calculadora simples",
-        "projectPath": "C:\\Users\\giian\\Desktop\\back-end\\console\\ProjetosEmC\\calculadora simples\\calculadora simples.csproj",
+        "projectPath": "C:\\Users\\giian\\Desktop\\calculadora simples\\CalcSimples\\calculadora simples.csproj",
         "packagesPath": "C:\\Users\\giian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giian\\Desktop\\back-end\\console\\ProjetosEmC\\calculadora simples\\obj\\",
+        "outputPath": "C:\\Users\\giian\\Desktop\\calculadora simples\\CalcSimples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giian\\AppData\\Roaming\\NuGet\\NuGet.Config"

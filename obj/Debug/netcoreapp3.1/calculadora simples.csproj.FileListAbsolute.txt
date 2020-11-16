@@ -1,0 +1,13 @@
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\bin\Debug\netcoreapp3.1\calculadora simples.exe
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\bin\Debug\netcoreapp3.1\calculadora simples.deps.json
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\bin\Debug\netcoreapp3.1\calculadora simples.runtimeconfig.json
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\bin\Debug\netcoreapp3.1\calculadora simples.runtimeconfig.dev.json
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\bin\Debug\netcoreapp3.1\calculadora simples.dll
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\bin\Debug\netcoreapp3.1\calculadora simples.pdb
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\obj\Debug\netcoreapp3.1\calculadora simples.csprojAssemblyReference.cache
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\obj\Debug\netcoreapp3.1\calculadora simples.AssemblyInfoInputs.cache
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\obj\Debug\netcoreapp3.1\calculadora simples.AssemblyInfo.cs
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\obj\Debug\netcoreapp3.1\calculadora simples.csproj.CoreCompileInputs.cache
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\obj\Debug\netcoreapp3.1\calculadora simples.dll
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\obj\Debug\netcoreapp3.1\calculadora simples.pdb
+C:\Users\giian\Desktop\calculadora simples\CalcSimples\obj\Debug\netcoreapp3.1\calculadora simples.genruntimeconfig.cache
